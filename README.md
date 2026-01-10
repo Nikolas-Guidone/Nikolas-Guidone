@@ -1,5 +1,5 @@
 # Hello, I'm Nikolas Guidone
-<a href="www.linkedin.com/in/nikolas-guidone-554077207"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://.linkedin.com/in/nikolas-guidone-554077207"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 A motivated and results-driven recent graduate with a passion for learning, problem-solving, and applying new skills to everyday activities due to a strong work ethic.  May 2024 graduate from the University of Tampa eager to leverage knowledge gained from Cybersecurity degree and apply a positive attitude and a commitment to learn and contribute.
