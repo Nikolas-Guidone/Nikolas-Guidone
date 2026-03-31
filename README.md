@@ -11,4 +11,4 @@ My passion and interest for Cybersecurity developed early on, after I took a lik
 
 ## Projects
 - <a href="https://github.com/Nikolas-Guidone/Home-NAS">Home NAS</a>
-- <a href="https://github.com/Nikolas-Guidone/Lab-Proxmox">Home Lab</a>
+- <a href="https://github.com/Nikolas-Guidone/Proxmox-Lab">Proxmox Lab</a>
